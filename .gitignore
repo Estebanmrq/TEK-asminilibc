@@ -1,0 +1,16 @@
+# Binary files
+a.out
+libasm.so
+unit_tests
+
+# Temporary files
+*.o
+*.gc*
+
+# Tests
+*.txt
+main.c
+example
+
+# Configuration
+.vscode/
